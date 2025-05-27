@@ -5,4 +5,4 @@ Despite the exceptional light-field control capabilities of freeform surfaces, t
 - RTNN is a dual-output architecture that co-optimizes optical performance and manufacturability through end-to-end physical-aware learning, establishing the first unified framework bridging computational optics and practical fabrication.
 - We introduce an innovative SlopeLoss function to ensure manufacturability by preventing erratic curvatures.
 - We successfully fabricate neural-designed freeform lenses, with optical experiments confirming the effectiveness of RTNN.
-##**Code Release Coming Soon**  
+## **Code Release Coming Soon**  
