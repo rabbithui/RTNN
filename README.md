@@ -1,6 +1,6 @@
 # RTNN
-This repository will host the official implementation of our paper: "**Manufacturable Freeform Lens Design via Self-Supervised Neural Network Integrating Differentiable Ray Tracing**" (under review).
+This repository will host the official implementation of our paper: "**End-to-end freeform lens design via self-supervised ray tracing neural network with integrated manufacturability**" (under review).
 ## Overview
-Despite the exceptional light-field control capabilities of freeform surfaces, their inverse design based on source emission characteristics and desired beam distribution remains a challenging task, particularly in complex scenarios. We propose a novel self-supervised learning-based **ray tracing neural network (RTNN) for universal freeform surface design**. 
+Freeform surfaces enable unprecedented control over complex irradiance distributions, yet their inverse design remains computationally intensive and lacks generalizability across diverse target patterns. We introduce a self-supervised ray tracing neural network that unites a neural network backbone with differentiable ray tracing in an end-to-end learning framework. 
 
 ## **Code Release Coming Soon**  
